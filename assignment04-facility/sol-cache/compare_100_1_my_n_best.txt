@@ -1,0 +1,109 @@
+real swap here: 787 -> 51 ;  405 -> 34
+real swap here: 784 -> 51 ;  760 -> 64
+real swap here: 786 -> 51 ;  100 -> 64
+real swap here: 789 -> 51 ;  7 -> 51
+real swap here: 7 -> 51 ;  285 -> 51
+real swap here: 285 -> 51 ;  453 -> 64
+real swap here: 795 -> 51 ;  344 -> 51
+real swap here: 344 -> 51 ;  476 -> 64
+real swap here: 802 -> 51 ;  20 -> 51
+real swap here: 20 -> 51 ;  249 -> 51
+real swap here: 249 -> 51 ;  79 -> 64
+real swap here: 816 -> 51 ;  661 -> 68
+real swap here: 821 -> 51 ;  39 -> 51
+real swap here: 39 -> 51 ;  536 -> 34
+real swap here: 830 -> 51 ;  364 -> 51
+real swap here: 364 -> 51 ;  8 -> 51
+real swap here: 8 -> 51 ;  11 -> 64
+real swap here: 837 -> 51 ;  329 -> 51
+real swap here: 329 -> 51 ;  572 -> 64
+real swap here: 839 -> 51 ;  46 -> 51
+real swap here: 46 -> 51 ;  27 -> 51
+real swap here: 27 -> 51 ;  844 -> 64
+real swap here: 846 -> 51 ;  187 -> 68
+real swap here: 850 -> 51 ;  53 -> 51
+real swap here: 53 -> 51 ;  638 -> 51
+real swap here: 638 -> 51 ;  463 -> 51
+real swap here: 463 -> 51 ;  55 -> 64
+real swap here: 856 -> 51 ;  181 -> 51
+real swap here: 181 -> 51 ;  351 -> 51
+real swap here: 351 -> 51 ;  277 -> 64
+real swap here: 866 -> 51 ;  782 -> 64
+real swap here: 869 -> 51 ;  838 -> 64
+real swap here: 870 -> 51 ;  571 -> 64
+real swap here: 871 -> 51 ;  371 -> 64
+real swap here: 873 -> 51 ;  6 -> 51
+real swap here: 6 -> 51 ;  425 -> 64
+real swap here: 881 -> 51 ;  285 -> 64
+real swap here: 884 -> 51 ;  765 -> 64
+real swap here: 886 -> 51 ;  29 -> 51
+real swap here: 29 -> 51 ;  64 -> 51
+real swap here: 64 -> 51 ;  419 -> 64
+real swap here: 892 -> 51 ;  445 -> 64
+real swap here: 893 -> 51 ;  214 -> 64
+real swap here: 894 -> 51 ;  581 -> 64
+real swap here: 895 -> 51 ;  344 -> 51
+real swap here: 344 -> 51 ;  156 -> 51
+real swap here: 156 -> 51 ;  643 -> 64
+real swap here: 904 -> 51 ;  14 -> 51
+real swap here: 14 -> 51 ;  337 -> 64
+real swap here: 907 -> 51 ;  685 -> 51
+real swap here: 685 -> 51 ;  601 -> 64
+real swap here: 910 -> 51 ;  42 -> 51
+real swap here: 42 -> 51 ;  648 -> 64
+real swap here: 914 -> 51 ;  636 -> 64
+real swap here: 919 -> 51 ;  641 -> 64
+real swap here: 926 -> 51 ;  683 -> 64
+real swap here: 927 -> 51 ;  620 -> 64
+real swap here: 934 -> 51 ;  684 -> 64
+real swap here: 935 -> 51 ;  307 -> 64
+real swap here: 936 -> 51 ;  629 -> 64
+real swap here: 938 -> 51 ;  133 -> 64
+real swap here: 942 -> 51 ;  14 -> 64
+real swap here: 944 -> 51 ;  182 -> 64
+real swap here: 946 -> 51 ;  60 -> 64
+real swap here: 948 -> 51 ;  789 -> 64
+real swap here: 950 -> 51 ;  830 -> 64
+real swap here: 951 -> 51 ;  528 -> 64
+real swap here: 953 -> 51 ;  317 -> 51
+real swap here: 317 -> 51 ;  42 -> 64
+real swap here: 968 -> 51 ;  678 -> 64
+real swap here: 971 -> 51 ;  294 -> 51
+real swap here: 294 -> 51 ;  981 -> 64
+real swap here: 982 -> 51 ;  615 -> 51
+real swap here: 615 -> 51 ;  852 -> 64
+real swap here: 984 -> 51 ;  121 -> 51
+real swap here: 121 -> 51 ;  944 -> 64
+real swap here: 992 -> 51 ;  927 -> 64
+real swap here: 993 -> 51 ;  45 -> 51
+real swap here: 45 -> 51 ;  239 -> 64
+real swap here: 969 -> 19 ;  31 -> 68
+real swap here: 979 -> 19 ;  979 -> 64
+real swap here: 986 -> 19 ;  92 -> 64
+real swap here: 989 -> 19 ;  573 -> 68
+real swap here: 996 -> 19 ;  792 -> 68
+
+i  s[i] sbest[i]
+14 64 51
+60 64 51
+133 64 51
+181 51 34
+239 64 51
+317 51 64
+344 51 64
+490 51 64
+573 68 19
+629 64 51
+636 64 51
+641 64 51
+648 64 51
+678 64 51
+684 64 51
+685 51 64
+747 51 64
+789 64 51
+852 64 51
+927 64 51
+930 64 51
+944 64 51
+980 64 51
